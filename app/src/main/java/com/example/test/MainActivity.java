@@ -14,4 +14,12 @@ public class MainActivity extends AppCompatActivity {
 
         Button button = (Button) findViewById(R.id.button);
     }
+
+    public void newMethod() {
+
+    }
+
+    public void newMethodTwo() {
+
+    }
 }
